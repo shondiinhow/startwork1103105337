@@ -1,0 +1,6 @@
+D:\檔案\多媒體系統\0331_homework\Chiayi_YW\Chiayi_YW\bin\Debug\Chiayi_YW.exe.config
+D:\檔案\多媒體系統\0331_homework\Chiayi_YW\Chiayi_YW\obj\Debug\Chiayi_YW.csprojResolveAssemblyReference.cache
+D:\檔案\多媒體系統\0331_homework\Chiayi_YW\Chiayi_YW\bin\Debug\Chiayi_YW.exe
+D:\檔案\多媒體系統\0331_homework\Chiayi_YW\Chiayi_YW\bin\Debug\Chiayi_YW.pdb
+D:\檔案\多媒體系統\0331_homework\Chiayi_YW\Chiayi_YW\obj\Debug\Chiayi_YW.exe
+D:\檔案\多媒體系統\0331_homework\Chiayi_YW\Chiayi_YW\obj\Debug\Chiayi_YW.pdb
