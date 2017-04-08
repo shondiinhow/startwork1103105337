@@ -1,0 +1,10 @@
+D:\檔案\多媒體系統\0331_homework\Chiayi_YWdb\ConsoleYW\bin\Debug\ConsoleYW.exe.config
+D:\檔案\多媒體系統\0331_homework\Chiayi_YWdb\ConsoleYW\bin\Debug\ConsoleYW.exe
+D:\檔案\多媒體系統\0331_homework\Chiayi_YWdb\ConsoleYW\bin\Debug\ConsoleYW.pdb
+D:\檔案\多媒體系統\0331_homework\Chiayi_YWdb\ConsoleYW\bin\Debug\Models.dll
+D:\檔案\多媒體系統\0331_homework\Chiayi_YWdb\ConsoleYW\bin\Debug\Models.pdb
+D:\檔案\多媒體系統\0331_homework\Chiayi_YWdb\ConsoleYW\obj\Debug\ConsoleYW.csprojResolveAssemblyReference.cache
+D:\檔案\多媒體系統\0331_homework\Chiayi_YWdb\ConsoleYW\obj\Debug\ConsoleYW.exe
+D:\檔案\多媒體系統\0331_homework\Chiayi_YWdb\ConsoleYW\obj\Debug\ConsoleYW.pdb
+D:\檔案\多媒體系統\0331_homework\Chiayi_YWdb\ConsoleYW\bin\Debug\App_Data\MotorcycleDB.mdf
+D:\檔案\多媒體系統\0331_homework\Chiayi_YWdb\ConsoleYW\bin\Debug\App_Data\MotorcycleDB_log.ldf
