@@ -8,6 +8,13 @@ D:\檔案\多媒體系統\0331_homework\Chiayi_YWdb\ConsoleYW\obj\Debug\ConsoleY
 D:\檔案\多媒體系統\0331_homework\Chiayi_YWdb\ConsoleYW\obj\Debug\ConsoleYW.pdb
 D:\檔案\多媒體系統\0331_homework\Chiayi_YWdb\ConsoleYW\bin\Debug\App_Data\MotorcycleDB.mdf
 D:\檔案\多媒體系統\0331_homework\Chiayi_YWdb\ConsoleYW\bin\Debug\App_Data\MotorcycleDB_log.ldf
-D:\檔案\多媒體系統\github\3.Web範例\Chiayi_YWweb\ConsoleYW\bin\Debug\ConsoleYW.exe.config
-D:\檔案\多媒體系統\github\3.Web範例\Chiayi_YWweb\ConsoleYW\obj\Debug\ConsoleYW.exe
-D:\檔案\多媒體系統\github\3.Web範例\Chiayi_YWweb\ConsoleYW\obj\Debug\ConsoleYW.pdb
+D:\檔案\多媒體系統\0414_homework\Chiayi_YWweb\ConsoleYW\bin\Debug\ConsoleYW.exe.config
+D:\檔案\多媒體系統\0414_homework\Chiayi_YWweb\ConsoleYW\obj\Debug\ConsoleYW.exe
+D:\檔案\多媒體系統\0414_homework\Chiayi_YWweb\ConsoleYW\obj\Debug\ConsoleYW.pdb
+D:\檔案\多媒體系統\0414_homework\Chiayi_YWweb\ConsoleYW\bin\Debug\App_Data\MotorcycleDB.mdf
+D:\檔案\多媒體系統\0414_homework\Chiayi_YWweb\ConsoleYW\bin\Debug\App_Data\MotorcycleDB_log.ldf
+D:\檔案\多媒體系統\0414_homework\Chiayi_YWweb\ConsoleYW\bin\Debug\ConsoleYW.exe
+D:\檔案\多媒體系統\0414_homework\Chiayi_YWweb\ConsoleYW\bin\Debug\ConsoleYW.pdb
+D:\檔案\多媒體系統\0414_homework\Chiayi_YWweb\ConsoleYW\bin\Debug\Models.dll
+D:\檔案\多媒體系統\0414_homework\Chiayi_YWweb\ConsoleYW\bin\Debug\Models.pdb
+D:\檔案\多媒體系統\0414_homework\Chiayi_YWweb\ConsoleYW\obj\Debug\ConsoleYW.csprojResolveAssemblyReference.cache

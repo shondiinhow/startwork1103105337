@@ -4,3 +4,6 @@ D:\檔案\多媒體系統\0331_homework\Chiayi_YW\Chiayi_YW\bin\Debug\Chiayi_YW.
 D:\檔案\多媒體系統\0331_homework\Chiayi_YW\Chiayi_YW\bin\Debug\Chiayi_YW.pdb
 D:\檔案\多媒體系統\0331_homework\Chiayi_YW\Chiayi_YW\obj\Debug\Chiayi_YW.exe
 D:\檔案\多媒體系統\0331_homework\Chiayi_YW\Chiayi_YW\obj\Debug\Chiayi_YW.pdb
+D:\檔案\多媒體系統\github\1.解析Xml\Chiayi_YW\Chiayi_YW\bin\Debug\Chiayi_YW.exe.config
+D:\檔案\多媒體系統\github\1.解析Xml\Chiayi_YW\Chiayi_YW\obj\Debug\Chiayi_YW.exe
+D:\檔案\多媒體系統\github\1.解析Xml\Chiayi_YW\Chiayi_YW\obj\Debug\Chiayi_YW.pdb

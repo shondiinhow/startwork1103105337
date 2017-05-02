@@ -3,3 +3,8 @@ D:\檔案\多媒體系統\0331_homework\Chiayi_YWdb\Models\bin\Debug\Models.pdb
 D:\檔案\多媒體系統\0331_homework\Chiayi_YWdb\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
 D:\檔案\多媒體系統\0331_homework\Chiayi_YWdb\Models\obj\Debug\Models.dll
 D:\檔案\多媒體系統\0331_homework\Chiayi_YWdb\Models\obj\Debug\Models.pdb
+D:\檔案\多媒體系統\0414_homework\Chiayi_YWweb\Models\bin\Debug\Models.dll
+D:\檔案\多媒體系統\0414_homework\Chiayi_YWweb\Models\bin\Debug\Models.pdb
+D:\檔案\多媒體系統\0414_homework\Chiayi_YWweb\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+D:\檔案\多媒體系統\0414_homework\Chiayi_YWweb\Models\obj\Debug\Models.dll
+D:\檔案\多媒體系統\0414_homework\Chiayi_YWweb\Models\obj\Debug\Models.pdb

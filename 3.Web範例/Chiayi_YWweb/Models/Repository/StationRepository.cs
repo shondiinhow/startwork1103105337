@@ -8,7 +8,7 @@ namespace YW.Repository
 {
     public class StationRepsitory
     {
-        private const string _connectionString = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=D:\檔案\多媒體系統\0331_homework\Chiayi_YWdb\ConsoleYW\App_Data\MotorcycleDB.mdf;Integrated Security=True";
+        private const string _connectionString = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\MotorcycleDB.mdf;Integrated Security=True";
         public void Create(List<Models.StationData> stations)
         {
             var connection = new System.Data.SqlClient.SqlConnection();
