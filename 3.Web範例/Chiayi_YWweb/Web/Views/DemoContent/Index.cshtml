@@ -1,0 +1,54 @@
+﻿@model List<YW.Models.StationData>
+@{
+    Layout = null;
+    var UserName = ViewBag.UserName;
+    var Stations = Model;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <h1>@UserName</h1>
+    <p>This is a p.</p>
+    <span>This is a p1</span>
+    <br />
+    <span>This is a p2</span>
+    <br />
+    <ul>
+        @for(var i = 0; i< Stations.Count; i++)
+        {
+            <li>
+                @Model[i].Site<br />
+                @Model[i].Address
+            </li>
+        }
+    </ul>
+    <br />
+    <table style="width:100%;border:1px solid red;">
+        <thead>
+            <tr>
+                <th style="width:100%;border:1px solid red;">Firstname</th>
+                <th style="width:100%;border:1px solid red;">Lastname</th>
+                <th style="width:100%;border:1px solid red;">Age</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td style="width:100%;border:1px solid red;">Jill</td>
+                <td style="width:100%;border:1px solid red;">Smith</td>
+                <td style="width:100%;border:1px solid red;">50</td>
+            </tr>
+            <tr>
+                <td style="width:100%;border:1px solid red;">Eve</td>
+                <td style="width:100%;border:1px solid red;">Jackson</td>
+                <td style="width:100%;border:1px solid red;">94</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
